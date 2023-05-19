@@ -1,3 +1,3 @@
 # Infinitely Civilized
 
-A Minecraft 
+A Minecraft
