@@ -1,3 +1,3 @@
 # Infinitely Civilized
 
-A Minecraft
+Completely fill your Minecraft world with villages wherever possible.
